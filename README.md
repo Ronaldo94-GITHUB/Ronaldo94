@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python FullStack especialização BI`**
 
-Me chamo Rogério Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
+Me chamo Ronaldo Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
 
 Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Busco criar soluções que façam a diferença, com foco em usabilidade,dados, performance, experiência do usuário e design limpo. Estudo as tecnologias como Python, Power BI, R, SQL e outras — ciência de dados para resolver problemas reais.
 
