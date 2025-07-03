@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ronaldo Sabino
 
-**`Desenvolvedor Python FullStack especialização BI`**
+**`Desenvolvedor Python especialização BI`**
 
 Me chamo Ronaldo Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
 
